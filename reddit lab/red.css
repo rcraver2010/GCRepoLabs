@@ -1,0 +1,27 @@
+body {
+    background-image: linear-gradient(90deg, hotpink, pink);
+    text-align: center;
+    color: red;
+    border-style: dotted;
+    border-radius: 10px;
+    border-width: thick;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    border-radius: 10px;
+}
+    
+a:hover {
+    background-color: deeppink;
+}
+
+a {
+    display: flex;
+    justify-content: center;
+    color:black
+}
+
